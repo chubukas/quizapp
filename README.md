@@ -15,3 +15,5 @@ You must install the dependences for this project before you can run it.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+You can view the project live by clicking on this link [https://quizapp-steel.vercel.app/results](https://quizapp-steel.vercel.app/results)
